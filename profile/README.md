@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://uplifto.app/logo.png" height="100" alt="Uplifto Logo" />
-  <h1><strong>Goal tracking that moves you forward.</strong></h1>
+  <h3><strong>Goal tracking that moves you forward.</strong></h3>
   
    <a href="https://uplifto.app">
     <img src="https://img.shields.io/badge/Website-uplifto.app-blue?style=flat-square&logo=google-chrome" />
