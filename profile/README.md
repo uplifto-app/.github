@@ -3,9 +3,15 @@
   <h1>Uplifto</h1>
   <p><strong>Goal tracking that moves you forward.</strong></p>
   
-  <a href="https://uplifto.app">Website</a> • 
-  <a href="https://play.google.com/store/apps/details?id=com.uplifto">Google Play</a> • 
-  <a href="mailto:support@uplifto.app">Support</a>
+   <a href="https://uplifto.app">
+    <img src="https://img.shields.io/badge/Website-uplifto.app-blue?style=flat-square&logo=google-chrome" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.uplifto">
+    <img src="https://img.shields.io/badge/Google_Play-Download-green?style=flat-square&logo=google-play" />
+  </a>
+  <a href="mailto:contact@uplifto.app">
+    <img src="https://img.shields.io/badge/Email-Contact_Us-orange?style=flat-square&logo=gmail" />
+  </a>
 </div>
 
 <br />
